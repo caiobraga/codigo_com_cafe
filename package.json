@@ -1,5 +1,5 @@
 {
-  "name": "codigo",
+  "name": "open-pro-next",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,13 +9,26 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "autoprefixer": "10.4.14",
-    "eslint": "8.45.0",
-    "eslint-config-next": "13.4.10",
-    "next": "13.4.10",
-    "postcss": "8.4.26",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "tailwindcss": "3.3.3"
+    "@headlessui/react": "^1.7.14",
+    "@types/node": "^20.2.5",
+    "@types/react": "^18.2.7",
+    "@types/react-dom": "^18.2.4",
+    "aos": "^3.0.0-beta.6",
+    "axios": "^1.4.0",
+    "body-parser": "^1.20.2",
+    "fs": "^0.0.1-security",
+    "next": "^13.4.10",
+    "nodemailer": "^6.9.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.3",
+    "@types/aos": "^3.0.4",
+    "@types/body-parser": "^1.19.2",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2"
   }
 }
