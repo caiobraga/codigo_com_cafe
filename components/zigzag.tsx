@@ -104,7 +104,7 @@ export default function Zigzag() {
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">Startup</div>
                   <h3 className="h3 mb-3" id="vetners">Vetners</h3>
-                  <p className="text-xl text-gray-400 mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                  <p className="text-xl text-gray-400 mb-4">Vetners é uma empresa que oferece um aplicativo para donos de pets. Com o app, os usuários podem cadastrar informações sobre os seus pets, como nome, idade, raça, vacinas, alergias e histórico médico. Além disso, o app permite conectar os donos de pets com veterinários qualificados e disponíveis na região, facilitando o agendamento de consultas e emergências. </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
