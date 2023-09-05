@@ -1,10 +1,7 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  output: 'export',
+module.exports = {
+  reactStrictMode: true,
   images: {
-    unoptimized: true
+    domains: ["rb.gy", "cdn.sanity.io", "lh3.googleusercontent.com"],
   },
-  trailingSlash: true,
-}
-
-module.exports = nextConfig
+};
