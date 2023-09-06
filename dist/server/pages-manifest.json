@@ -1,0 +1,13 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/api/checkout_sessions": "pages/api/checkout_sessions.js",
+  "/api/getSession": "pages/api/getSession.js",
+  "/api/email": "pages/api/email.js",
+  "/api/hello": "pages/api/hello.js",
+  "/": "pages/index.html",
+  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
+  "/_document": "pages/_document.js",
+  "/success": "pages/success.js",
+  "/404": "pages/404.html"
+}
